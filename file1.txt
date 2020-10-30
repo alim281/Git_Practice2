@@ -1,1 +1,4 @@
 This is the day 1 of B20 class
+We created a git repostory on desktop called B20-DAY1
+
+We added one file inside called file1.txt
